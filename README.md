@@ -1,2 +1,3 @@
 # AI_Notebooks
-include the notebooks learned, edited, and programmed...more is coming
+This repo is for job search, include notebooks learned, edited, and programmed in the Eng Doctoral AI program.
+Still under working prograss, more will be added, and will become more organized.
